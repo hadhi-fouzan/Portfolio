@@ -69,7 +69,6 @@ body {
   overflow-x: hidden;
   scroll-behavior: smooth;
   background-color: #222;
-  display: flex;
 }
 .hero-header {
   width: 100%;
