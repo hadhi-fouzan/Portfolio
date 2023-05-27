@@ -8,7 +8,7 @@
 
 .container-n {
   width: 90%;
-  max-width: 900px;
+  
   margin: 0 auto;
 }
 
@@ -78,9 +78,8 @@ body {
   max-width: 100%;
 }
 .wrapper {
-  width: 1280px;
-  max-width: 100%;
-  margin: 0 auto;
+  width: 100%;
+  
   padding: 0 20px;
 }
 header {
